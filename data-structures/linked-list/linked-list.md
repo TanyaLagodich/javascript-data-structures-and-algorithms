@@ -8,10 +8,12 @@ A simple implementation of a Single Linked List in JavaScript, with basic functi
 ### Big O Notation
 The performance of data structures and algorithms is often evaluated using Big O notation for the worst case, which describes the time complexity and space complexity of an algorithm or operation. Here is the Big O analysis for various operations in a singly linked list:
 
-* Access: `O(n)`
-* Search: `O(n)`
-* Insertion: `O(1)` at the beginning, `O(n)` at the end or middle
-* Deletion: `O(1)` at the beginning, `O(n)` at the end or middle
+* Adding in the end `O(1)`
+* Popping something from the end `O(n)`
+* Adding in the beginning `O(1)`
+* Removing from the beginning `O(1)`
+* Insertion by index `O(n)`
+* Removing from index `O(n)`
 
 The time complexity for accessing and searching in a Linked List is `O(n)` because it requires traversing the list sequentially. 
 However, the time complexity for insertion and deletion can be `O(1)` when manipulating the head or tail, 
