@@ -15,12 +15,6 @@ The performance of data structures and algorithms is often evaluated using Big O
 * Insertion by index `O(n)`
 * Removing from index `O(n)`
 
-The time complexity for accessing and searching in a Linked List is `O(n)` because it requires traversing the list sequentially. 
-However, the time complexity for insertion and deletion can be `O(1)` when manipulating the head or tail, 
-but it becomes `O(n)` when dealing with nodes in the middle, as it requires finding the appropriate position first.
-
-Understanding the Big O notation can provide insights into the efficiency and scalability of the Linked List for different types of operations.
-
 ### Methods
 
 The Single Linked List implementation provides the following methods:
