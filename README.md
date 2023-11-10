@@ -6,12 +6,12 @@ fundamental concepts in computer science.
 
 ### Implemented Data Structures and Algorithms
 - [x] **Single Linked List**
+- [x] **Doubly Linked List**
 
 ### Future Implementations
 I'm continuously working to expand the collection of data structures 
 and algorithms in this repository. Future implementations may include:
 
-- [ ] **Doubly Linked List**
 - [ ] **Stack**
 - [ ] **Queue**
 - [ ] **Binary Search Tree**
