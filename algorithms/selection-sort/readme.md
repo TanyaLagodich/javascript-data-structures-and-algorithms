@@ -6,6 +6,7 @@ at the beginning. The algorithm divides the array into a sorted and an
 unsorted region. In each iteration, it finds the minimum element from 
 the unsorted region and swaps it with the first unsorted element.
 
+![animation bubble sort](https://markbowman.org/LCC/SortSelection.gif)
 ## Function Parameters
 `array`: The array to be sorted.
 

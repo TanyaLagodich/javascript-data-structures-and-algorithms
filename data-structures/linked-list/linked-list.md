@@ -1,9 +1,11 @@
-# Single Linked List in JavaScript
+# Single Linked List
 
 A simple implementation of a Single Linked List in JavaScript, with basic functionalities and methods for manipulating the list.
 
 ### What is a Linked List?
 *A Linked List* is a linear data structure consisting of a sequence of elements known as nodes. Each node contains data and a reference (or pointer) to the next node in the sequence. The first node is called the head, while the last node, which points to null, is called the tail. Unlike arrays, Linked Lists do not have a predetermined fixed size, allowing for more flexibility in adding or removing elements. There are various types of Linked Lists, such as singly linked lists, doubly linked lists, and circular linked lists, each with specific features and use cases.
+
+![linked list](https://miro.medium.com/v2/resize:fit:953/1*iiEWrP2IznA6HbmuIdK0lQ.png)
 
 ### Big O Notation
 The performance of data structures and algorithms is often evaluated using Big O notation for the worst case, which describes the time complexity and space complexity of an algorithm or operation. Here is the Big O analysis for various operations in a singly linked list:
