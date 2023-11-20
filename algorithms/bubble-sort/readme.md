@@ -6,7 +6,7 @@ traverses the array multiple times, compares pairs of adjacent elements,
 and swaps them if they are in the wrong order. The process repeats until the 
 entire array is sorted.
 
-![animation bubble sort](https://markbowman.org/LCC/SortBubble.gif)
+![animation bubble sort](https://miro.medium.com/v2/resize:fit:828/format:webp/1*OJuKXwBjg2JtgDDP9SI0qA.gif)
 ## Function Parameters
 `array`: The array to be sorted.
 
